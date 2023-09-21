@@ -1,0 +1,6 @@
+database:
+  user: "omnibus"
+  password: "omnibus"
+  name: "omnibus"
+  host: "localhost"
+  port: "3306"
